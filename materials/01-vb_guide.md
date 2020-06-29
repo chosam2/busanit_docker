@@ -40,13 +40,13 @@ VirtualBox 설치 후 Extensin Pack 설치
 
 - [네트워크] 
 
-![NatNetwork 설정](./img/b.png)
+![NatNetwork 설정](./img/b.PNG)
 
 ### 3) NAT Network 추가
 
 - [네트워크] - [추가]
 
-![NatNetwork 설정](./img/c.png)
+![NatNetwork 설정](./img/c.PNG)
 
 ### 4) NAT 네트워크 정보 확인
 
@@ -54,4 +54,4 @@ VirtualBox 설치 후 Extensin Pack 설치
 
 > 수업에서 10.0.2.0/24 대역 사용 예정
 
-![NatNetwork 설정](./img/d.png)
+![NatNetwork 설정](./img/d.PNG)
