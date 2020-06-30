@@ -11,7 +11,7 @@
 - 홈페이지 : https://hyper.is/
 - 다운로드 링크 : https://releases.hyper.is/download/win
 
-## 3. MabaXterm
+## 3. MobaXterm
 
 - 다운로드 : https://mobaxterm.mobatek.net/download.html
 - 다운로드 링크 : https://mobaxterm.mobatek.net/download-home-edition.html
