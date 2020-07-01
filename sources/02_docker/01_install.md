@@ -3,7 +3,7 @@
 ## 0) 편의상 추가적으로 설치할 패키지
 
 ```bash
-sudo yum -y install epel-release bash-completion brctl-utils
+sudo yum -y install epel-release bash-completion bridge-utils
 ```
 
 ## 1) 사전 패키지 설치
